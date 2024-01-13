@@ -142,7 +142,7 @@ bool lvl1() {
                                                 return false;
                                         case 2: 
                                                 std::cout<<""<<std::endl;
-                                                std::cout<<"<<Ti ringrazio, entra nella stanza a sinistra e attraversa il muro per andartene e non tornare mai più."<<std::endl;
+                                                std::cout<<"<<Ti ringrazio, entra nella stanza a sinistra e attraversa il muro per andartene e non tornare mai più.>>"<<std::endl;
                                                 std::cout<<""<<std::endl;
                                                 std::cout<<"Fai esattamente ciò che la voce ti dice e riesci ad attraversare la parete."<<std::endl;
                                                 std::cout<<""<<std::endl;
